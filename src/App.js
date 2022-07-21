@@ -9,6 +9,8 @@ import Contact from './components/Contact';
 import Portfolio from './components/Portfolio';
 import Footer from './components/Footer';
 
+
+
 class App extends Component {
   render() {
     return (
@@ -21,6 +23,9 @@ class App extends Component {
             <Route exact path="/about" component={About} />
             <Route exact path="/contact" component={Contact} />
             <Route exact path="/portfolio" component={Portfolio} />
+           
+         
+
 
           </main>
           <Footer />
