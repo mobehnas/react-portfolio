@@ -8,7 +8,7 @@ function Header() {
     <header className="flex-row px-1">
       <div className="logo">
         <h1>
-        <Link to="/">Mohamed B</Link>
+        <Link to="/">Mohamed Behnas</Link>
         </h1>
       </div>
       <NavBar></NavBar>
