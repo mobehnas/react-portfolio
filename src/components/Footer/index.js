@@ -11,7 +11,7 @@ function Footer() {
               <FaGithub />
             </li>
           </a>
-          <a href="https://www.linkedin.com" target="blank">
+          <a href="https://www.linkedin.com/in/mohamed-behnas-946b66174/" target="blank">
             <li>
               <FaLinkedin />
             </li>
