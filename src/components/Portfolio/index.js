@@ -1,7 +1,7 @@
 import React from 'react';
 
 import foodFestivalImage from "../../assets/images/food-festival.png";
-import passwordGeneratorImage from "../../assets/images/password-generator.png";
+import cinemaHubImage from "../../assets/images/cinema-hub.png";
 import invoiceTrackerImage from "../../assets/images/invoice-tracker.png";
 import weatherDashboardImage from "../../assets/images/weather-dashboard.png";
 import techBlogImage from "../../assets/images/tech-blog.png";
@@ -35,15 +35,15 @@ function Portfolio() {
         <div className="col">
           <div className="card">
             <img
-              src={passwordGeneratorImage}
-              alt="password Generator"
+              src={cinemaHubImage}
+              alt="Cinema Hub"
               className="card-img-top"
             />
             <div className="card-body">
-              <a href="https://github.com/mobehnas/password-generator" target="_blank" rel="noreferrer">
+              <a href="https://github.com/nbross/Cinema-Hub" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-              <a href="https://mobehnas.github.io/password-generator/" target="_blank" rel="noreferrer">
+              <a href="https://cinema-hub-app.herokuapp.com/ " target="_blank" rel="noreferrer">
                 <button>Website</button>
               </a>
             </div>
